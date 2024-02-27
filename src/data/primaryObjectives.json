@@ -1,0 +1,28 @@
+{
+    "morkite":{
+        "desc": "Recover all morkite!",
+        "modifier": 0.5,
+        "default":5,
+        "die": "armor"
+    },
+    "alienEggs":{
+        "desc":"Recover all alien eggs!",
+        "modifier": 1,
+        "default":3,
+        "die": "bullet"
+    },
+    "aquarq":{
+        "desc":"Recover all the aquarq crystals!",
+        "modifier": 1,
+        "default":4,
+        "die": "bullet"
+    },
+    "elimination":{
+        "desc":"Kill the target glyphid!",
+        "modifier": 4 
+    },
+    "blackBox":{
+        "desc":"Spend 1 Action to activate the Black Box, or if it is active, to repair it. The Black Box needs to be repaired 5 times to be completely repaired (you can use health markers to mark how many activation you need to complete the objective). The repair action can only be done once per Dwarf Turn.!",
+        "modifier": 3 
+    }
+}

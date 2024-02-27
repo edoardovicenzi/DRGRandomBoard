@@ -1,0 +1,30 @@
+{
+    "morkite":{
+        "exclusivity": ["morkite"],
+        "modifier": 0.5,
+        "default":3,
+        "die": "armor"
+    },
+    "apocaBlooms":{
+        "exclusivity": ["alienEggs"],
+        "modifier": 0.5,
+        "default":4,
+        "die": "bullet" 
+    },
+    "alienFossils":{
+        "exclusivity": ["alienEggs"],
+        "modifier": 0.5,
+        "default":3,
+        "die": "bullet"
+    },
+    "droneRetrival":{
+        "exclusivity": ["blackBox"],
+        "modifier": 1,
+        "default":1,
+        "die": "bullet" 
+    },
+    "elimination":{
+        "exclusivity": ["elimination","aquarq"],
+        "modifier": 2 
+    }
+}
